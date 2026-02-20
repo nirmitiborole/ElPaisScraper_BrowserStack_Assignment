@@ -1,0 +1,41 @@
+============================================
+DEVICE: Local Chrome
+============================================
+
+Language Check : PASSED (lang='es-ES')
+
+========== Article 1 ==========
+Spanish Title  : Prueba de fuego para Buckingham
+English Title  : Trial by fire for Buckingham
+Content        : La monarquía británica tiene que exigir para el expríncipe Andrés la misma justicia que para cualquier otro ciudadano
+Image          : Not available
+
+========== Article 2 ==========
+Spanish Title  : Duro ajuste en la Complutense
+English Title  : Hard adjustment in the Complutense
+Content        : La Comunidad de Madrid es la principal responsable de resolver la penuria de la mayor universidad pública presencial de España
+Image          : Not available
+
+========== Article 3 ==========
+Spanish Title  : ¿Acabará Vox con la derecha ‘latte’?
+English Title  : Will Vox put an end to the 'latte' right?
+Content        : El partido de Abascal está en ese momento en el que todo le cuadra, pero tendrá que elegir: o estar con la impugnación o estar con el orden
+Image          : Not available
+
+========== Article 4 ==========
+Spanish Title  : ¿Vuelve la religión?
+English Title  : Is religion coming back?
+Content        : La creencia no ha vuelto en su función estructuradora de la sociedad, con la pretensión de recuperar la antigua función de regular el espacio social en su totalidad
+Image URL      : https://imagenes.elpais.com/resizer/v2/I7W24M6K2JEMPFWEXPOFG2IYLE.jpg?auth=be33ff081d2b8c295eadeeda2617cb029272ddaddb96fb10689dae71287b0e0b&width=414
+Image Saved to : images/local_chrome/article_4.jpg
+
+========== Article 5 ==========
+Spanish Title  : ‘Moteras iraníes’
+English Title  : 'Iranian bikers'
+Content        : En Irán, las mujeres no tienen reconocido oficialmente el derecho a conducir motocicletas y, por tanto, no se les conceden permisos. Aun así, las iraníes llevan años plantando cara a estas restricciones. Durante décadas han convertido sus propios cuerpos en herramientas de resistencia; cada vez que se suben a una moto toman una decisión consciente de traspasar los límites impuestos en nombre de la ley, la tradición o el miedo
+Image URL      : https://imagenes.elpais.com/resizer/v2/RMHO45HCOZGJTD6U2ADLKGCBOE.jpg?auth=71032ebfcd95e60e8ac13a7fe0186ee7407b059524de990d3c3e4265bc971e25&width=414&height=233&focal=1293%2C1130
+Image Saved to : images/local_chrome/article_5.jpg
+
+========== Word Frequency Analysis ==========
+No words repeated more than twice across all headers.
+=============================================
