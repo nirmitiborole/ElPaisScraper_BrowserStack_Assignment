@@ -56,7 +56,7 @@ public class BaseTest {
         bstackOptions.put("userName", username);
         bstackOptions.put("accessKey", accessKey);
         bstackOptions.put("projectName", "El Pais Scraper");
-        bstackOptions.put("buildName", "Build 1.0");
+        bstackOptions.put("buildName", "ElPaisScraper_browsersracktest");
         bstackOptions.put("sessionName", "Test on " + (device.isEmpty() ? "Desktop " + browserName : device));
         bstackOptions.put("consoleLogs", "info");
 
