@@ -29,7 +29,7 @@ public class TestUtils {
         for (String title : titles) {
             String[] words = title.replaceAll("[^a-zA-Z0-9\\s]", "").toLowerCase().split("\\s+");
             for (String word : words) {
-                if (word.length() > 2) {
+                if (word.length() > 0) {
                     wordCounts.put(word, wordCounts.getOrDefault(word, 0) + 1);
                 }
             }
